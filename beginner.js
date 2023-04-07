@@ -1,0 +1,11 @@
+let carName = "Volvo";
+let years = 50;
+let x = 5;
+let y = 10;
+console.log(x + y);
+let z = x + y;
+console.log(z);
+let firstName = "John", lastName = "Doe", age = 35;
+let num1 = 10;
+let num2 = 5;
+console.log(num1 * num2);
